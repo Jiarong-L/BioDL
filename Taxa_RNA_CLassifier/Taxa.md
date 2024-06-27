@@ -27,7 +27,7 @@ Output: Predict Archaea(0) or Bacteria(1)
 Model: Conv1d -- LSTM -- LinearClassifier
 
 TODO: 
-- Optimize the model
+- Test set
 - Use blast result as benchmark.
 ```
 
