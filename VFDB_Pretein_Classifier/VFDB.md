@@ -1,6 +1,6 @@
 
 
-Todo: replace self.linear with a stronger classifier
+Todo: Optimize the model
 
 
 ## Data
