@@ -13,11 +13,13 @@ Toys that help to learn tools and methods
 
 3. Load Structure data into Graph
 
-4. A toy simulation try to recover community abundances from metagenomics data
-
-5. AutoML for table data
-
-
+4. Play around with protein profile with TimeLine info
+    - AE: add constrains to preserve certain information in the emdeddings
+    - AutoGluon: AutoML for table data
 
 
+
+## Pending
+
+* Community: A toy simulation try to recover community abundances from metagenomics data
 
