@@ -1,9 +1,14 @@
 # BioDL
 
-Toys that help to learn tools and methods
+Toys that help to learn tools and methods, using PyTorch or TensorFlow or [Jax](https://jiarong-l.github.io/notes/Tricks/Jax/).
+
+-	Generative models using MNIST images
+-	Load and embed biological inputs (seq/structure) 
+-	[Model explanation](https://jiarong-l.github.io/notes/Readings/XAI/) using Captum/SHAP 
+-	Deploy model on [HuggingFace](https://jiarong-l.github.io/notes/Tricks/HuggingFace/)
 
 
-## Some Trials
+## Trials
 
 1. Classifying protein sequences to VFCID
     - Tips: we can initiallize the nn.Embedding layer with BLOSUM62 matrix
